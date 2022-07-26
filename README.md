@@ -6,9 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="" alt="project-screenshot" width="400" height="400/">
-
-  
+  ![project-screenshot](https://user-images.githubusercontent.com/82771227/181075907-3e65ce3d-2e7c-4bec-86a8-53825c5a5a44.png)
   
 <h2>💻 Built with</h2>
 
